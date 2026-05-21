@@ -25,13 +25,15 @@ Curso Ciências da Computação e uso o GitHub pra registrar o que vou aprendend
 
 ### Estudando agora
 
-```text
-Estruturas de dados e algoritmos
-JavaScript mais a fundo  
-Python para automação e backends
-```
+### Estudando agora
 
----
+```text
+Inteligência Artificial          ██████░░░░  em andamento
+Redes Neurais                    ████░░░░░░  em andamento
+Matemática Computacional         ███████░░░  em andamento
+Lógica Computacional             ██████░░░░  em andamento
+Arquitetura de Computadores      █████░░░░░  em andamento
+```
 
 
 
