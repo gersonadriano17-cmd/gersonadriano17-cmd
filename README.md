@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=500&lines=Gerson+Adriano;Estudante+de+Ciências+da+Computação;Inteligência+Artificial+%26+Redes+Neurais;Desenvolvedor+Fullstack;Python+%7C+JavaScript+%7C+HTML+%7C+CSS" alt="Typing" />
-
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=gersonadriano17-cmd&style=flat-square&color=00e5ff&label=visitantes" />
