@@ -33,24 +33,7 @@ Python para automação e backends
 
 ---
 
-### Estatísticas
 
-<div align="center">
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=gersonadriano17-cmd&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersonadriano17-cmd&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=gersonadriano17-cmd&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gersonadriano17-cmd&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
 
 ### Contato
 
