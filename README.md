@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00E5FF&center=true&width=500&lines=Gerson+Adriano;Ciências+da+Computação;Desenvolvedor+Fullstack;Python+%7C+JavaScript+%7C+HTML+%7C+CSS" alt="Typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=500&lines=Gerson+Adriano;Estudante+de+Ciências+da+Computação;Inteligência+Artificial+%26+Redes+Neurais;Desenvolvedor+Fullstack;Python+%7C+JavaScript+%7C+HTML+%7C+CSS" alt="Typing" />
 
 <br/>
 
@@ -28,11 +28,11 @@ Curso Ciências da Computação e uso o GitHub pra registrar o que vou aprendend
 ### Estudando agora
 
 ```text
-Inteligência Artificial          ██████░░░░  em andamento
-Redes Neurais                    ████░░░░░░  em andamento
-Matemática Computacional         ███████░░░  em andamento
-Lógica Computacional             ██████░░░░  em andamento
-Arquitetura de Computadores      █████░░░░░  em andamento
+Inteligência Artificial          ██████   em andamento
+Redes Neurais                    ████     em andamento
+Matemática Computacional         ███████  em andamento
+Lógica Computacional             ██████   em andamento
+Arquitetura de Computadores      █████    em andamento
 ```
 
 
