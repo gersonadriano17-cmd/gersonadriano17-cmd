@@ -52,7 +52,7 @@ Trabalho com <strong>Python</strong> no backend e <strong>HTML, CSS e JavaScript
 <br/>
 
 <div align="center">
-<img src="https://img.shields.io/badge/📚%20Estudando%20agora-6366f1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%20Estudando%20agora-6366f1?style=for-the-badge"/>
 </div>
 
 <br/>
